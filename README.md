@@ -6,7 +6,6 @@
 *Gratis, Tanpa Batas, Menjaga Privasi Penuh, dan Dipercepat oleh WebGPU.*
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-erase--drop.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://erase-drop.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/zzdree/erase-drop?style=for-the-badge&logo=github&color=00E5FF&logoColor=white)](https://github.com/zzdree/erase-drop/stargazers)
 [![License: MIT](https://img.shields.io/badge/Lisensi-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 [![Privacy: 100% Client-Side](https://img.shields.io/badge/Privasi-100%25%20Lokal%20Device-10B981?style=for-the-badge&logo=shield&logoColor=white)](https://erase-drop.vercel.app)
 [![Engine: WebGPU + WASM](https://img.shields.io/badge/Mesin-WebGPU%20%2F%20WASM-00E5FF?style=for-the-badge&logo=webassembly&logoColor=white)](https://erase-drop.vercel.app)
