@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # ✂️ EraseDrop
 ### **Penghapus Background Gambar Berbasis AI 100% di Dalam Browser**
@@ -174,7 +174,7 @@ npx vercel --prod
 ## 👨‍💻 Pengembang & Pemilik Proyek
 
 **Andreas Restuawanta Christwara**  
-- GitHub: [@zzdree](https://github.com/zzdree)
+- GitHub: [@zzdree](https://github.com/zzdevxx)
 - Repositori: [zzdree/erase-drop](https://gitlab.com/zzdree/erase-drop)
 
 ---
