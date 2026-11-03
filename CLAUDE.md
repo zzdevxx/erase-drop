@@ -3,8 +3,8 @@
 ## Project Summary
 - **App Name:** EraseDrop
 - **Description:** 100% In-Browser AI Background Remover (WebGPU/WASM, Zero Server Upload, Batch ZIP, Studio Editor, Pas Foto Presets, IndexedDB History).
-- **Owner:** Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdree))
-- **GitHub:** https://github.com/zzdree/erase-drop
+- **Owner:** Andreas Restuawanta Christwara ([@zzdevxx](https://github.com/zzdevxx))
+- **GitHub:** https://github.com/zzdevxx/erase-drop
 - **Live URL:** https://erase-drop.vercel.app
 
 ## Tech Stack
@@ -28,6 +28,6 @@ git push origin main
 - `README.md` — User-facing documentation (Bahasa Indonesia)
 
 ## Environment Status
-- GitHub CLI (`gh`): Logged in as `zzdree`
-- Vercel CLI: Logged in as `zzdree` (Token in user env `VERCEL_TOKEN`)
+- GitHub CLI (`gh`): Logged in as `zzdevxx`
+- Vercel CLI: Logged in as `zzdevxx` (Token in user env `VERCEL_TOKEN`)
 - Supabase CLI: Configured with 2 active projects

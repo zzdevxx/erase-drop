@@ -2,8 +2,8 @@
 
 **Project Name:** EraseDrop  
 **Tagline:** In-Browser AI Background Remover — Fast, Private, and Unlimited.  
-**Repository:** [https://github.com/zzdree/erase-drop](https://github.com/zzdree/erase-drop)  
-**Author:** Andreas (@zzdree)  
+**Repository:** [https://github.com/zzdevxx/erase-drop](https://github.com/zzdevxx/erase-drop)  
+**Author:** Andreas (@zzdevxx)  
 **Version:** 1.0.0  
 **Status:** In Progress / Active Development  
 

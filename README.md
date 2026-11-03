@@ -136,7 +136,7 @@ EraseDrop menyediakan preset warna terkalibrasi khusus untuk kebutuhan dokumen r
 
 ```bash
 # 1. Clone repositori dari GitHub
-git clone https://gitlab.com/zzdree/erase-drop.git
+git clone https://gitlab.com/zzdevxx/erase-drop.git
 
 # 2. Masuk ke direktori proyek
 cd erase-drop
@@ -174,8 +174,8 @@ npx vercel --prod
 ## 👨‍💻 Pengembang & Pemilik Proyek
 
 **Andreas Restuawanta Christwara**  
-- GitHub: [@zzdree](https://github.com/zzdevxx)
-- Repositori: [zzdree/erase-drop](https://gitlab.com/zzdree/erase-drop)
+- GitHub: [@zzdevxx](https://github.com/zzdevxx)
+- Repositori: [zzdevxx/erase-drop](https://gitlab.com/zzdevxx/erase-drop)
 
 ---
 

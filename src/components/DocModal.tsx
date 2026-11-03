@@ -102,7 +102,7 @@ export const DocModal: React.FC<DocModalProps> = ({ isOpen, onClose }) => {
 
         {/* Footer */}
         <div className="p-4 border-t border-slate-200 dark:border-obsidian-800 bg-slate-50/50 dark:bg-obsidian-900/50 flex items-center justify-between">
-          <span className="text-xs font-mono text-slate-500">EraseDrop • Dibuat oleh @zzdree</span>
+          <span className="text-xs font-mono text-slate-500">EraseDrop • Dibuat oleh @zzdevxx</span>
           <button
             onClick={onClose}
             className="px-5 py-2 rounded-xl text-xs font-bold bg-brand-cyan text-slate-950 hover:brightness-110 shadow-md shadow-cyan-500/20 transition-all font-mono"
