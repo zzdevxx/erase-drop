@@ -43,6 +43,26 @@ export const StudioModal: React.FC<StudioModalProps> = ({
 }) => {
   if (!item || !item.processedUrl) return null;
 
+  return (
+    <StudioModalContent
+      item={{ ...item, processedUrl: item.processedUrl }}
+      onClose={onClose}
+      onSaveConfig={onSaveConfig}
+    />
+  );
+};
+
+interface StudioModalContentProps {
+  item: ProcessedImageItem & { processedUrl: string };
+  onClose: () => void;
+  onSaveConfig: (id: string, config: StudioConfig) => void;
+}
+
+const StudioModalContent: React.FC<StudioModalContentProps> = ({
+  item,
+  onClose,
+  onSaveConfig,
+}) => {
   // Active Sidebar Tool Tab
   const [activeTab, setActiveTab] = useState<StudioTab>('background');
 

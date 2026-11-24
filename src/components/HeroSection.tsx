@@ -1,9 +1,6 @@
 import React, { useState } from 'react';
 import {
-  ShieldCheck,
-  Zap,
   Sliders,
-  Sparkles,
   ArrowRight
 } from 'lucide-react';
 
@@ -12,7 +9,7 @@ interface HeroSectionProps {
   isGpuSupported: boolean;
 }
 
-export const HeroSection: React.FC<HeroSectionProps> = ({ onSelectSample, isGpuSupported }) => {
+export const HeroSection: React.FC<HeroSectionProps> = ({ onSelectSample }) => {
   const [sliderVal, setSliderVal] = useState(50);
   const [activeBackdropPreview, setActiveBackdropPreview] = useState<'transparent' | 'red' | 'blue' | 'gradient'>('transparent');
 
